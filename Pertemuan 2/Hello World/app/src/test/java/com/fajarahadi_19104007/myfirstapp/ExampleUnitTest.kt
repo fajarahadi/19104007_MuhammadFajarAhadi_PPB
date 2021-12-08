@@ -1,4 +1,4 @@
-package com.fauziyah_19104033.myfirstapp
+package com.fajarahadi_19104007.myfirstapp
 
 import org.junit.Test
 
